@@ -1,2 +1,2 @@
-# observer
-GOLANG OBSERVER PATTERN IMPLEMENTATION
+# Golang Observer Pattern
+Observer Pattern in Golang
